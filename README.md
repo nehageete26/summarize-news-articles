@@ -26,9 +26,8 @@ Optional Streamlit interface for easy use
 
 Python
 
-newspaper (Article)
 
-Libraries: NLTK / Sumy
+Libraries: NLTK / Sumy, newspaper (Article)
 
 Frontend (optional): Streamlit
 
