@@ -26,9 +26,9 @@ Optional Streamlit interface for easy use
 
 Python
 
-Libraries: BeautifulSoup, NLTK / Sumy / Transformers
+newspaper (Article)
 
-Model: TextRank or BERT Summarizer
+Libraries: NLTK / Sumy
 
 Frontend (optional): Streamlit
 
