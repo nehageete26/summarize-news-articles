@@ -5,6 +5,7 @@ This project automatically summarizes long news articles into short and meaningf
 It helps users quickly understand the main points of any news article without reading the entire content.
 
 
+
 ⚙ Key Features:
 
 Input: URL of a news article
@@ -18,6 +19,7 @@ Uses NLP techniques like tokenization, sentence ranking, or transformer-based su
 Optional Streamlit interface for easy use
 
 
+
 🧠 Tech Stack:
 
 Python
@@ -27,6 +29,7 @@ Libraries: BeautifulSoup, NLTK / Sumy / Transformers
 Model: TextRank or BERT Summarizer
 
 Frontend (optional): Streamlit
+
 
 
 🎯 Goal:
